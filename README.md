@@ -90,7 +90,7 @@ Installers are expected to:
 - **Monthly Power Bill:** Approximately **$1,000 per month**.  
   This significant utility expense and frequent loss of power due to PSPS is a key driver behind implementing a battery backup system that leverages the existing solar array and generator to reduce grid dependency.
 
-### Bill Documentation 📊
+### Bill Documentation 📊 (Summer/Hot Months)
 
 ![August Hot Month Bill 2024](./august-hot-month-bill-2024.png)
 ![Bill Chart](./bill-chart.png)
