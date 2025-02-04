@@ -64,6 +64,7 @@ Installers are expected to:
 - Ensure the design meets local electrical codes and maintains NEM 2.0 compliance.
 - Evaluate the system’s energy efficiency, accounting for the approximate **5–10% efficiency degradation** of the 10-year-old panels.
 - Deliver a comprehensive plan that integrates the existing solar infrastructure with the new backup components.
+- Contact home owner for e-mail address to submit proposal
 
 ---
 
