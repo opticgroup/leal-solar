@@ -69,7 +69,7 @@ Installers are expected to:
 
 ## Image Gallery 📸
 
-![Earth](./earth.jpg)
+![Earth](./earth.png)
 ![IMG_1768](./IMG_1768.jpg)
 ![IMG_1769](./IMG_1769.jpg)
 ![IMG_1770](./IMG_1770.jpg)
