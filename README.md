@@ -23,12 +23,12 @@ The property currently faces a **$1,000/month power bill** 💰, and the homeown
   - *Note:* These panels are **10 years old**, typically operating at roughly **90–95%** of their original capacity due to an approximate **5–10% efficiency degradation**.
 
 - **Configuration:**  
-  - Panels are string-tied (high voltage) on the detached garage.
-  - The array feeds into the garage (bare/coverted wire) and then to a **power cutoff switch** located on the exterior of the garage, then runs to the home's **200A main service panel**.
+  - Panels are string-tied (high voltage) and lead into the detached garage.
+  - Power cables then go back to a emergency **power cutoff switch** located on the exterior of the garage, then runs to the home's **200A main service panel** underground.
 
 - **Generator Setup:**  
-  - A **Honda 3000 watt generator/inverter** is connected via a **6-circuit manual transfer switch** to the home's 200 amp panel.
-  - The plan is to reconfigure this generator to feed the new battery/inverter/charger system during outages.
+  - A working **Honda 3000 watt generator/inverter** is connected via a **6-circuit manual transfer switch** to the home's 200 amp panel.
+  - The plan is to reconfigure this generator to feed the new battery/inverter/charger system during outages.  Homeowner is okay with manually starting this generator.
 
 - **Current Status:**  
   - The original grid-tie inverter caught fire and was discarded by the home owner, never replaced, and the system has been dormant for 5+ years. 
