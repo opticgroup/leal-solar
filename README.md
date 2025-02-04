@@ -1,6 +1,6 @@
 # Dormant Solar System Battery Backup Project ⚡️🔋
 
-This repository documents the project to revive a **dormant solar power system** that was originally installed as a SolarCity system (later acquired by Tesla). The system has been inactive since the grid-tie inverter caught fire 5 years ago, and Tesla never resolved the issue.
+Hi, my name is Nick (the home owner).   I'm looking to revive a **dormant solar power system** that was originally installed as a SolarCity system (later acquired by Tesla). The system has been inactive since the grid-tie inverter caught fire 5 years ago, and Tesla never resolved the issue.
 
 The property currently faces a **$1,000/month power bill** 💰, and the homeowner does **not** wish to expand the solar panel array at this time. The goal is to implement a battery backup solution using the existing solar installation while maintaining NEM 2.0 net metering status.
 
@@ -24,34 +24,36 @@ The property currently faces a **$1,000/month power bill** 💰, and the homeown
 
 - **Configuration:**  
   - Panels are string-tied (high voltage) on the detached garage.
-  - The array feeds into a **power cutoff switch**, then runs to the home's **200A main service panel**.
+  - The array feeds into the garage (bare/coverted wire) and then to a **power cutoff switch** located on the exterior of the garage, then runs to the home's **200A main service panel**.
 
 - **Generator Setup:**  
-  - A **Honda 3000 watt generator/inverter** is connected via a **6-circuit manual transfer switch**.
+  - A **Honda 3000 watt generator/inverter** is connected via a **6-circuit manual transfer switch** to the home's 200 amp panel.
   - The plan is to reconfigure this generator to feed the new battery/inverter/charger system during outages.
 
 - **Current Status:**  
-  - The original grid-tie inverter was destroyed by fire and has not been replaced, leaving the system dormant.
+  - The original grid-tie inverter caught fire and was discarded by the home owner, never replaced, and the system has been dormant for 5+ years. 
 
 ---
 
-## Equipment and System Design 🔧
+## New Equipment and System Design 🔧
 
 - **Battery/Charger/Inverter System:**  
   - **Battery Options:** Preferred option is **Victron**; however, Tesla, Franklin, or other brands will be evaluated based on **cost per amp-hour** and overall system compatibility.  
   - **Inverter:** Open to installer recommendations. A hybrid inverter capable of both grid-tie and battery backup operation is required to integrate the existing solar array and the new battery system.
 
 - **Load Shedding:**  
-  - The system must automatically disable high-draw circuits (such as the laundry machine and electric hot water heater) during outages to ensure efficient use of backup power.
+  - The system must automatically disable high-draw circuits (such as the laundry machine and electric hot water heater) at the 200 amp (new panel) during outages to ensure efficient use of backup power.
 
 - **Main Panel Upgrade:**  
-  - Replace or upgrade the existing **200A main service panel** to accommodate the new system components.
+  - Replace or upgrade the existing **200A main service panel** to accommodate new system components and to clean up the existing romex wiring. 
 
 - **No Additional Solar Panels:**  
-  - The homeowner does **not** wish to install any additional solar panels.
+  - The homeowner does **not** wish to install any additional solar panels at this time but may wish to install panels in 2026.  Do not include new panels in this quote. 
 
 - **NEM 2.0 Compliance:**  
   - All modifications must preserve the current NEM 2.0 net metering status.
+ 
+- **Location** is Trabuco Canyon, CA. 92679 with no shading on solar panels
 
 ---
 
@@ -86,7 +88,7 @@ Installers are expected to:
 ## Power Bill 💡
 
 - **Monthly Power Bill:** Approximately **$1,000 per month**.  
-  This significant utility expense is a key driver behind implementing a battery backup system that leverages the existing solar array to reduce grid dependency.
+  This significant utility expense and frequent loss of power due to PSPS is a key driver behind implementing a battery backup system that leverages the existing solar array and generator to reduce grid dependency.
 
 ### Bill Documentation 📊
 
